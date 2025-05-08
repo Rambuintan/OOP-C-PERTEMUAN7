@@ -1,13 +1,22 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package pertemuan3;
 
 /**
  *
- * @author Lab E
+ * @author Rambu Intan
+ * TGL 8 Mei 2025
  */
-public class persegi {
+public class persegi extends BangunRuang {
+    private int panjang, lebar;
+    
+    public void setPanajang(int pj){
+        this.panjang = pj;
+        
+        public void setLebar(int lb){
+            this.lebar = lb;
+            
+        }
+        @Override 
+    }
     
 }
